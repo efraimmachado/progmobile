@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.fragment'
+    namespace 'com.example.multiplosfragmentos'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.fragment"
+        applicationId "com.example.multiplosfragmentos"
         minSdk 24
         targetSdk 33
         versionCode 1

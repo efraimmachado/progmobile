@@ -1,4 +1,4 @@
-package com.example.fragment;
+package com.example.multiplosfragmentos;
 
 import org.junit.Test;
 
